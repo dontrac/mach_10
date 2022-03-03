@@ -3,7 +3,7 @@ iOS/iPadOS 15.1 kernel LPE for all devices by BonnieDev.
 
 # Curent State
 - It probably works idk.
-- Right now it's just a fork of desc_race by b1n4r1b01 but I will be updating it and adding my own code to it ASAP
+- A lot of code yoinked from desc_race by b1n4r1b01 and by a lot I mean almost all. I will be building upon it more very soon though, so stay tuned. I'm just using desc_race as a base.
 
 # The Vulnerability
 - **CVE-2021-30955**: XNU body double copyin in mach_msg trap
